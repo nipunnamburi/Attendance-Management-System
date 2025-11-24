@@ -37,10 +37,3 @@ It demonstrates secure role-based access, CRUD operations, and database integrat
 - Integrate frontend templates with Thymeleaf.  
 
 ---
-
-## ⚙️ Setup Instructions
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/attendance-management-system.git
-   cd attendance-management-system
